@@ -110,6 +110,10 @@ Flush Privileges:
 ```
 FLUSH PRIVILEGES;
 ```
+Create database 
+```
+create database myDB;
+```
 ###### Creating Table
 ```
 CREATE TABLE web (
